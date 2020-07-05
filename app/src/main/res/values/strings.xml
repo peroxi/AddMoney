@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AddMoney</string>
+    <string name="debit_or_credit_card">Debit or credit card</string>
+    <string name="cont">Continue</string>
+    <string name="change">Change</string>
+    <string name="amount_title">How much do you want to add?</string>
+    <string name="confirm">Confirm</string>
+    <string name="resend">Resend code</string>
+    <string name="verification_code_title">Verification code</string>
+    <string name="verify_title">Verify by phone</string>
+    <string name="verify_content">We just sent you a verification code by text message to your registered mobile phone number (123) xxx-xx12</string>
+    <string name="verify_rationale">You are authorizing a payment to Electronic store for $259.95</string>
+    <string name="enter_valid_card_number">Please enter a valid card number</string>
+    <string name="cv_code_missing">Please enter full details</string>
+</resources>
