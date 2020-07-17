@@ -4,5 +4,7 @@ import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
 class AddBalanceActivityViewModel: ViewModel() {
-    private var screenLiveData: MutableLiveData<MainActivityViewModel.NavigationConstants>? = null
+    val screenLiveData: MutableLiveData<Int> by lazy {
+        MutableLiveData<Int>()
+    }
 }
